@@ -8,6 +8,8 @@ But we can work it out as a function of μ or Φ or something else.
 ## Three assumptions
 1. P( y | x ; Θ ) ∼ ExponentialFamily( η )
 
+the ";" here means : given x and Θ, in other words, x and Θ are invariant.
+
 2. h<sub>Θ</sub>(x) = E[ y | η ]
 
 Here is an improtant property of the exponential family:

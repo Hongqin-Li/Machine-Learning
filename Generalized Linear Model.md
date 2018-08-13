@@ -20,6 +20,7 @@ Here is an improtant property of the exponential family:
   
 
 3. η = θ<sup>T</sup>x
+( Or η<sub>i</sub> = θ<sub>i</sub><sup>T</sup>x )
 
 Just for convenience. Also, we can have some nonlinear forms, but that works more difficultly.
 

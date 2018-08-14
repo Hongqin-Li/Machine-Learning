@@ -20,6 +20,10 @@
   Without it,
   > θ<sub>p</sub>(x) = max<sub>α,β</sub>L(α, β, x) = ∞
  
+# “max min” of a function is less than or equal to the “min max”
+  min<sub>y</sub>max<sub>x</sub>f(x, y) >= || min<sub>y</sub>f(x, y) ||
+
+ 
   the KKT conditions :
   > 1. ∂/∂x[L(α, β, x)] = 0;
   > 2. h(x) = 0;

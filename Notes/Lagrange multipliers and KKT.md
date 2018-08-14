@@ -13,7 +13,9 @@
   > **α<sub>i</sub> >= 0**
   
   This constrain acts when
-  > θ<sub>p</sub>(x) = max<sub>α,β</sub>L(α, β, x) = f(x)
+  > θ<sub>p</sub>(x) = max<sub>α,β:α<sub>i</sub>>=0</sub>{L(α, β, x)} = f(x) 
+  
+  Because g<sub>i</sub>(x) <= 0, then α<sub>i</sub> · g<sub>i</sub>(x) <= 0. So just  set α = 0 to get the maximum.
   
   Without it,
   > θ<sub>p</sub>(x) = max<sub>α,β</sub>L(α, β, x) = ∞

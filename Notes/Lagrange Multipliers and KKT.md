@@ -28,3 +28,6 @@
   > 1. ∂/∂x[L(α, β, x)] = 0;
   > 2. h(x) = 0;
   > 3. **α<sub>i</sub> · g<sub>i</sub>(x) = 0;**
+
+
+![](Machine-Learning/Resources/Screenshot_2018-08-15-15-13-56.png)

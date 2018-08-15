@@ -29,5 +29,6 @@
   > 2. h(x) = 0;
   > 3. **α<sub>i</sub> · g<sub>i</sub>(x) = 0;**
 
-
-![](Machine-Learning/Resources/Screenshot_2018-08-15-15-13-56.png)
+![](https://github.com/lihongqinzhuanyong/Machine-Learning/raw/master/Resources/Screenshot_2018-08-15-15-13-56.png)
+![](https://github.com/lihongqinzhuanyong/Machine-
+Learning/raw/master/Resources/Screenshot_2018-08-15-15-13-56.png)
